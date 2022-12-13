@@ -4,7 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some fun facts about me:
+- I have a very regimented caffeine schedule
+- I am a self professed history nerd
+
+### Key Achievements
+
 
 ### More Information
 
